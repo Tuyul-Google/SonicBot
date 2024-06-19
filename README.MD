@@ -29,7 +29,10 @@ npm run start
 
 \*pastikan udah install node js
 
-by :
-github : [FreeDropLink](https://github.com/FreeDropLink)
-twitter : @FreeDropLink
-telegram : @FreeDropLink
+Github : [FreeDropLink]
+
+(https://github.com/FreeDropLink)
+
+Twitter : @FreeDropLink
+
+Telegram : @FreeDropLink
